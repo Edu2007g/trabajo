@@ -1,4 +1,17 @@
 body
 {
-background-color:#778DA9; 
+background-color:#ffffff; 
+font-family: "Lucida Console", "Courier New", monospace;
+text-align: center;
 }
+ul 
+{
+    list-style-type: none;
+    padding: auto;
+}
+li{
+    display: inline;
+    page: 30px;
+}
+
+
