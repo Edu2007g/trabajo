@@ -22,6 +22,54 @@ li{
 
 }
 img{
-    max-width: 100%;
+    width: 50%;
 }
 
+/* .capa{
+    width: 50%;
+    height: auto;
+    border-radius:8px ;
+    border-style: solid;
+    border-width: 10px;
+    border-color: rgb(0, 0, 0);
+
+}
+
+
+.gwyn{
+    width: 50%;
+    height: auto;
+    border-radius:8px ;
+    border-style: solid;
+    border-width: 10px;
+    border-color: rgb(0, 0, 0);
+
+}
+
+.artorias{
+    width: 50%;
+    height: auto;
+    border-radius:8px ;
+    border-style: solid;
+    border-width: 10px;
+    border-color: rgb(0, 0, 0);
+
+}
+
+.nameless{
+    width: 50%;
+    height: auto;
+    border-radius:8px ;
+    border-style: solid;
+    border-width: 10px;
+    border-color: rgb(0, 0, 0);
+}
+ */
+ .galeria img{
+    width: 50%;
+    height: auto;
+    border-radius:8px ;
+    border-style: solid;
+    border-width: 10px;
+    border-color: rgb(0, 0, 0);
+ }
